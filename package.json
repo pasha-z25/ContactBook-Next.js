@@ -1,0 +1,26 @@
+{
+  "name": "contactbook-next",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pasha-z25/ContactBook-Next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pasha-z25/ContactBook-Next.js/issues"
+  },
+  "homepage": "https://github.com/pasha-z25/ContactBook-Next.js#readme",
+  "dependencies": {
+    "next": "^13.4.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
